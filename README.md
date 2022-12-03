@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/80232643/205412483-420042e3-9de2-4663-ae7c-9ca096deb4d9.png)
 
 <div align="center">
-<h3>𝐍𝐓𝐓 𝐃𝐚𝐭𝐚 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩</h3>
+<h3>𝐍𝐓𝐓 𝐃𝐚𝐭𝐚 𝐁𝐨𝐨𝐭𝐜𝐚𝐦𝐩 𝐃𝐈𝐎 🌈</h3>
 </div>
 
 
