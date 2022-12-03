@@ -27,4 +27,4 @@
 <h3>𝖢𝗈𝗆𝗉𝖺𝗍𝗂𝖻𝗂𝗅𝗂𝖽𝖺𝖽𝖾:</h3>
 
 [![forthebadge](https://forthebadge.com/images/badges/compatibility-club-penguin.svg)](https://forthebadge.com)
-<div>
+</div>
